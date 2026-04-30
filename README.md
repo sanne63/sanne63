@@ -1,7 +1,7 @@
-=<h1 align="center">Hi, I'm Ikhsan 👋</h1>
+<h1 align="center">Hi, I'm Ikhsan 👋</h1>
 
 <p align="center">
-  Informatics System Student · Aspiring Backend & AI Engineer
+  Information System Student · Aspiring Backend & AI Engineer
   <br>
   UPN Veteran Jawa Timur · Surabaya, Indonesia
 </p>
@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 2nd semester Informatics System student at UPN Veteran Jawa Timur
+- 🎓 2nd semester Information System student at UPN Veteran Jawa Timur
 - 🚀 Building toward Backend + AI Engineering by 2030
 - 🌱 Currently learning Python, SQL, and Backend fundamentals
 - 💡 Interested in building real products that solve real problems

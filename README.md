@@ -3,7 +3,7 @@
 <p align="center">
   Informatics System Student · Aspiring Backend & AI Engineer
   <br>
-  Universitas X · Surabaya, Indonesia
+  UPN Veteran Jawa Timur · Surabaya, Indonesia
 </p>
 
 ---

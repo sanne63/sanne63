@@ -24,6 +24,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
@@ -32,6 +34,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Finance Tracker](https://github.com/sanne63/finance_tracker) | CLI app to track personal income & expenses | Python, SQLite |
+| [Property Management System](https://github.com/sanne63/Property-Management-system) | Web-based property rental management system with multi-role access | PHP, MySQL |
 
 ---
 

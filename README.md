@@ -39,7 +39,7 @@
 |--------|-------------|------|
 | [Finance Tracker](https://github.com/sanne63/finance_tracker) | CLI app to track personal income & expenses | Python, SQLite |
 | [Property Management System](https://github.com/sanne63/Property-Management-system) | Web-based property rental management system with multi-role access | PHP, MySQL |
-| [HPE's Employee data](https://github.com/sanne63/hpe-software-engineering-job-simulation) | Backend systems of HPE's Employees data using Java, Spring WEB, Spring Data JPA, Junit 5, Mockito, Postman API |
+| [HPE's Employee data](https://github.com/sanne63/hpe-software-engineering-job-simulation) | Backend systems of HPE's Employees data | Java, Spring WEB, Spring Data JPA, Junit 5, Mockito, Postman API |
 
 ---
 
